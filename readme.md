@@ -93,9 +93,9 @@ pdf-ocr-extractor/
 
 ## 🔗 Интеграции и связанные проекты
 
-(🛍️ Extractor SKU)[https://extractor-sku-by-mroshchupkin.streamlit.app/] - извлечение артикулов и данных
+[🛍️ Extractor SKU](https://extractor-sku-by-mroshchupkin.streamlit.app/) - извлечение артикулов и данных
 
-(🏷️ Brand Detector)[https://brand-detected-by-mroshchupkin.streamlit.app/] - определение брендов в тексте
+[🏷️ Brand Detector](https://brand-detected-by-mroshchupkin.streamlit.app/) - определение брендов в тексте
 
 ## 📊 Аналитика и оптимизация
 
