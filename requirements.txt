@@ -5,12 +5,3 @@ Pillow==10.1.0
 numpy==1.24.0
 pyzipper==0.3.6
 python-dateutil==2.8.2
-fitz
-numpy
-Pillow
-PyMuPDF
-pytesseract
-python-dateutil
-pyzipper
-streamlit
-streamlit

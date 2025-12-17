@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: pdf-ocr-extractor
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    env: docker
+    plan: free
+    healthCheckPath: /_stcore/health
+    autoDeploy: true
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: true
