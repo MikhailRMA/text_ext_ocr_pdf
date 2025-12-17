@@ -5,3 +5,4 @@ Pillow==10.1.0
 numpy==1.24.0
 pyzipper==0.3.6
 python-dateutil==2.8.2
+opencv-python-headless==4.8.0  # Для обработки изображений
