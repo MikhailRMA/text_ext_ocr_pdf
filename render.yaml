@@ -10,3 +10,5 @@ services:
     envVars:
       - key: PYTHONUNBUFFERED
         value: true
+      - key: TESSERACT_PATH
+        value: /usr/bin/tesseract
